@@ -11,7 +11,7 @@
 
 ### `> Muneeb Ur Rehman Khan` — AI/ML Engineer & Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Python+%7C+TypeScript+%7C+React+%7C+ML;Healthcare+AI+%7C+Climate+Tech+%7C+Logistics;Open+to+collaborations+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Building+AI-powered+products;Python+%7C+TypeScript+%7C+React+%7C+ML;Healthcare+AI+%7C+Climate+Tech+%7C+Logistics;Open+to+collaborations+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -84,7 +84,7 @@ stack = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MuneebX00-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=38bdf8)](https://github.com/MuneebX00)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=38bdf8)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=38bdf8)](mailto:muneebkkhan00@email.com)
 
 </div>
 
