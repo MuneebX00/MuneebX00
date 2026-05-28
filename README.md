@@ -67,8 +67,11 @@ stack = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuneebX00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneebX00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuneebX00&theme=tokyonight" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuneebX00&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuneebX00&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuneebX00&theme=tokyonight" height="160" />
 
 <img src="https://streak-stats.demolab.com?user=MuneebX00&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=a78bfa&currStreakLabel=38BDF8" height="165" />
 
