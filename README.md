@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝
 ```
 
-### `> Muneeb Ur Rehman Khan` — AI/ML Engineer 
+### `> Ayesha` — AI/ML Engineer 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Building+AI-powered+products;Python+%7C+TypeScript+%7C+React+%7C+ML;Healthcare+AI+%7C+Climate+Tech+%7C+Logistics;Open+to+collaborations+%E2%9C%A8" alt="Typing SVG" />
 
